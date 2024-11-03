@@ -1,6 +1,6 @@
 # To_do_list
 # Description:
-    This is a simple to-do-list program implemented in python.
+    It is a simple to-do-list program implemented in python.
 
 # Features:
  - User friendly
